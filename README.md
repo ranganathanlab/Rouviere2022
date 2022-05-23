@@ -5,11 +5,11 @@
 
 ### Installation instructions (Mac or Linux).
 
-All code is written in julia1.7.2  Download and install julia1.7.2 at from
+All code is written in julia1.7.2.  Download and install julia1.7.2 at from
 
 https://julialang.org/downloads/oldreleases/
 
-Next open up a terminal type
+Next, open up a terminal type,
 
 `julia`
 
@@ -17,7 +17,7 @@ A julia REPL should be running. To install the needed Julia packages, type,
 
 `] add PyPlot, LaTeXStrings, Revise`
 
-end that REPL session.
+kill that REPL session.
 
 ### Evolving elastic networks
 
